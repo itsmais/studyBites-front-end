@@ -15,6 +15,7 @@ Pages:
 
 For a live demo, kindly visit https://itsmais.github.io/studyBites-front-end/
 
-Landing page                  |  About page              |
-:----------------------------:|:-------------------------:
-![landing](screenshots/landing.png)  | ![about page](screenshots/about.png)
+  <img src="screenshots/landing.png" width="300" />
+    <img width="50" /> 
+  <img src="screenshots/sign_in.png" width="300" /> 
+</p>
