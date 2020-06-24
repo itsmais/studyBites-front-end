@@ -2,7 +2,7 @@
 in order to go along with our chosen palette of colors */
 
 .banner{
-    background-image: url("./images/banner.jpg");
+    background-image: url('images/banner.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
