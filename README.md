@@ -16,6 +16,6 @@ Pages:
 For a live demo, kindly visit https://itsmais.github.io/studyBites-front-end/
 
   <img src="screenshots/landing.png" width="300" />
-    <img width="50" /> 
+     
   <img src="screenshots/sign_in.png" width="300" /> 
 </p>
