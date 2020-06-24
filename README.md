@@ -14,3 +14,7 @@ Pages:
 - Settings
 
 For a live demo, kindly visit https://itsmais.github.io/studyBites-front-end/
+
+Landing page                  |  About page              |
+:----------------------------:|:-------------------------:
+![landing](screenshots/landing.png)  | ![about page](screenshots/about.png)
