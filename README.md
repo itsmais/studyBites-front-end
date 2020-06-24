@@ -14,7 +14,3 @@ Pages:
 - Settings
 
 For a live demo, kindly visit https://itsmais.github.io/studyBites-front-end/
-
-  <img src="screenshots/landing.png" width="200" />
-  <img src="screenshots/sign_in.png" width="200" /> 
-</p>
