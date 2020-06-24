@@ -2,7 +2,7 @@
 in order to go along with our chosen palette of colors */
 
 .banner{
-    background-image: url("https://github.com/itsmais/studyBites-front-end/blob/master/images/banner.jpg");
+    background-image: url("https://github.com/itsmais/studyBites-front-end/blob/master/images/banner.jpg?raw=true");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
