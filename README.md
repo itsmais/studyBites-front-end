@@ -12,5 +12,3 @@ Pages:
 - Course support/feedback
 - User courses list
 - Settings
-
-For a live demo, kindly visit https://itsmais.github.io/studyBites-front-end/
